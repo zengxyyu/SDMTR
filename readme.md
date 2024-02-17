@@ -145,4 +145,3 @@ sh run.sh "Triangle" "default" 4 4 128 256 False False 5 False 8 False 5 False 1
 ISAB
 sh run.sh "Triangle" "functional" 4 4 128 256 False False 5 False 8 False 5 False 1
 ```
-![等边三角形检测结果](./Triangle/Triangles.png)
